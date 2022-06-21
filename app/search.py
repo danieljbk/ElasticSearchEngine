@@ -55,7 +55,6 @@ def search(term: str, count: int) -> List[SearchResult]:
         "match": {
             "name": {
                 "query": term,
-                "fuzziness": "AUTO",
             }
         }
     }
@@ -63,7 +62,6 @@ def search(term: str, count: int) -> List[SearchResult]:
         "match": {
             "type_one": {
                 "query": term,
-                "fuzziness": "AUTO",
             }
         }
     }
@@ -71,15 +69,14 @@ def search(term: str, count: int) -> List[SearchResult]:
         "match": {
             "type_two": {
                 "query": term,
-                "fuzziness": "AUTO",
             }
         }
     }
-    dismax_query = {
+    dis_max_query = {  # disjunction max query
         "dis_max": {
             "queries": [name_query, type_one_query, type_two_query],
         },
     }
-    docs = s.query(dismax_query)[:count].execute()
+    docs = s.query(dis_max_query)[:count].execute()
 
     return [SearchResult.from_doc(d) for d in docs]

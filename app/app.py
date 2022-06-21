@@ -22,9 +22,11 @@ def get_image():
 @app.route("/index")
 def index():
     """
-    Search for pokemon across a variety of terms, and show 9 results for each.
+    Search for pokemon across a variety of terms, and show a blank page at the start.
     """
-    search_terms = []
+    search_terms = (
+        []
+    )  # by adding terms here, you can display search results in the home page.
 
     num_results = 9
     pokemon_by_category = [(t, search(t, num_results)) for t in search_terms]
