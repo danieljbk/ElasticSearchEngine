@@ -18,7 +18,6 @@ def pokemon_to_index():
                 "type_two": pokemon.type_two,
                 "max_cp": pokemon.max_cp,
                 "max_hp": pokemon.max_hp,
-                "image_url": pokemon.image_url,
             },
         }
 
@@ -42,7 +41,6 @@ def main():
                     "type_two": {"type": "text"},
                     "max_cp": {"type": "integer"},
                     "max_hp": {"type": "integer"},
-                    "image_url": {"type": "text"},
                 },
             },
         },

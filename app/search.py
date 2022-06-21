@@ -16,9 +16,7 @@ HEADERS = {"content-type": "application/json"}
 class SearchResult:
     # Represents a product returned from elasticsearch.
 
-    def __init__(
-        self, id_, number, name, type_one, type_two, max_cp, max_hp, image_url
-    ):
+    def __init__(self, id_, number, name, type_one, type_two, max_cp, max_hp):
         self.id = id_
         self.number = number
         self.name = name
@@ -26,7 +24,6 @@ class SearchResult:
         self.type_two = type_two
         self.max_cp = max_cp
         self.max_hp = max_hp
-        self.image_url = image_url
 
     def from_doc(doc) -> "SearchResult":
         return SearchResult(
@@ -37,7 +34,6 @@ class SearchResult:
             type_two=doc.type_two,
             max_cp=doc.max_cp,
             max_hp=doc.max_hp,
-            image_url=doc.image_url,
         )
 
 
@@ -51,31 +47,11 @@ def search(term: str, count: int) -> List[SearchResult]:
     client.transport.connection_pool.connection.headers.update(HEADERS)
 
     s = Search(using=client, index=INDEX_NAME, doc_type=DOC_TYPE)
-    name_query = {
-        "match": {
-            "name": {
-                "query": term,
-            }
-        }
-    }
-    type_one_query = {
-        "match": {
-            "type_one": {
-                "query": term,
-            }
-        }
-    }
-    type_two_query = {
-        "match": {
-            "type_two": {
-                "query": term,
-            }
-        }
-    }
+    name_query = {"match": {"name": {"query": term,}}}
+    type_one_query = {"match": {"type_one": {"query": term,}}}
+    type_two_query = {"match": {"type_two": {"query": term,}}}
     dis_max_query = {  # "disjunction max query"
-        "dis_max": {
-            "queries": [name_query, type_one_query, type_two_query],
-        },
+        "dis_max": {"queries": [name_query, type_one_query, type_two_query],},
     }
     docs = s.query(dis_max_query)[:count].execute()
 

@@ -15,7 +15,6 @@ class PokemonData:
         type_two,
         max_cp,
         max_hp,
-        image_url,
     ):
         self.id = id_
         self.number = number
@@ -24,7 +23,6 @@ class PokemonData:
         self.type_two = type_two
         self.max_cp = max_cp
         self.max_hp = max_hp
-        self.image_url = image_url
 
     def __str__(self):
         return textwrap.dedent(
@@ -36,7 +34,6 @@ class PokemonData:
             type_two: {}
             max_cp: {}
             max_hp: {}
-            image_url: {}
         """
         ).format(
             self.id,
@@ -46,7 +43,6 @@ class PokemonData:
             self.type_two,
             self.max_cp,
             self.max_hp,
-            self.image_url,
         )
 
 

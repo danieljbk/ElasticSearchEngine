@@ -5,8 +5,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1079,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/21\/001Bulbasaur.png\/250px-001Bulbasaur.png"
+        "max_hp": 83
     },
     {
         "number": 2,
@@ -14,8 +13,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1643,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/73\/002Ivysaur.png\/250px-002Ivysaur.png"
+        "max_hp": 107
     },
     {
         "number": 3,
@@ -23,8 +21,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 2598,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/ae\/003Venusaur.png\/250px-003Venusaur.png"
+        "max_hp": 138
     },
     {
         "number": 4,
@@ -32,8 +29,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 962,
-        "max_hp": 73,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/73\/004Charmander.png\/250px-004Charmander.png"
+        "max_hp": 73
     },
     {
         "number": 5,
@@ -41,8 +37,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 1568,
-        "max_hp": 103,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4a\/005Charmeleon.png\/250px-005Charmeleon.png"
+        "max_hp": 103
     },
     {
         "number": 6,
@@ -50,8 +45,7 @@
         "type_one": "Fire",
         "type_two": "Flying",
         "max_cp": 2620,
-        "max_hp": 135,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/7e\/006Charizard.png\/250px-006Charizard.png"
+        "max_hp": 135
     },
     {
         "number": 7,
@@ -59,8 +53,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1015,
-        "max_hp": 81,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/39\/007Squirtle.png\/250px-007Squirtle.png"
+        "max_hp": 81
     },
     {
         "number": 8,
@@ -68,8 +61,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1594,
-        "max_hp": 105,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/0c\/008Wartortle.png\/250px-008Wartortle.png"
+        "max_hp": 105
     },
     {
         "number": 9,
@@ -77,8 +69,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 2560,
-        "max_hp": 137,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/02\/009Blastoise.png\/250px-009Blastoise.png"
+        "max_hp": 137
     },
     {
         "number": 10,
@@ -86,8 +77,7 @@
         "type_one": "Bug",
         "type_two": null,
         "max_cp": 446,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/5d\/010Caterpie.png\/250px-010Caterpie.png"
+        "max_hp": 83
     },
     {
         "number": 11,
@@ -95,8 +85,7 @@
         "type_one": "Bug",
         "type_two": null,
         "max_cp": 481,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cd\/011Metapod.png\/250px-011Metapod.png"
+        "max_hp": 91
     },
     {
         "number": 12,
@@ -104,8 +93,7 @@
         "type_one": "Bug",
         "type_two": "Flying",
         "max_cp": 1465,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/d1\/012Butterfree.png\/250px-012Butterfree.png"
+        "max_hp": 107
     },
     {
         "number": 13,
@@ -113,8 +101,7 @@
         "type_one": "Bug",
         "type_two": "Poison",
         "max_cp": 452,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/df\/013Weedle.png\/250px-013Weedle.png"
+        "max_hp": 75
     },
     {
         "number": 14,
@@ -122,8 +109,7 @@
         "type_one": "Bug",
         "type_two": "Poison",
         "max_cp": 488,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f0\/014Kakuna.png\/250px-014Kakuna.png"
+        "max_hp": 83
     },
     {
         "number": 15,
@@ -131,8 +117,7 @@
         "type_one": "Bug",
         "type_two": "Poison",
         "max_cp": 1450,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/61\/015Beedrill.png\/250px-015Beedrill.png"
+        "max_hp": 115
     },
     {
         "number": 16,
@@ -140,8 +125,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 684,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/55\/016Pidgey.png\/250px-016Pidgey.png"
+        "max_hp": 75
     },
     {
         "number": 17,
@@ -149,8 +133,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 1232,
-        "max_hp": 111,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/7a\/017Pidgeotto.png\/250px-017Pidgeotto.png"
+        "max_hp": 111
     },
     {
         "number": 18,
@@ -158,8 +141,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 2106,
-        "max_hp": 143,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/57\/018Pidgeot.png\/250px-018Pidgeot.png"
+        "max_hp": 143
     },
     {
         "number": 19,
@@ -167,8 +149,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 585,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/46\/019Rattata.png\/250px-019Rattata.png"
+        "max_hp": 59
     },
     {
         "number": 20,
@@ -176,8 +157,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1454,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f4\/020Raticate.png\/250px-020Raticate.png"
+        "max_hp": 99
     },
     {
         "number": 21,
@@ -185,8 +165,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 691,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/8b\/021Spearow.png\/250px-021Spearow.png"
+        "max_hp": 75
     },
     {
         "number": 22,
@@ -194,8 +173,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 1758,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a0\/022Fearow.png\/250px-022Fearow.png"
+        "max_hp": 115
     },
     {
         "number": 23,
@@ -203,8 +181,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 830,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/fa\/023Ekans.png\/250px-023Ekans.png"
+        "max_hp": 67
     },
     {
         "number": 24,
@@ -212,8 +189,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 1779,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cd\/024Arbok.png\/250px-024Arbok.png"
+        "max_hp": 107
     },
     {
         "number": 25,
@@ -221,8 +197,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 894,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/0d\/025Pikachu.png\/250px-025Pikachu.png"
+        "max_hp": 67
     },
     {
         "number": 26,
@@ -230,8 +205,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 2042,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/88\/026Raichu.png\/250px-026Raichu.png"
+        "max_hp": 107
     },
     {
         "number": 27,
@@ -239,8 +213,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 804,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9e\/027Sandshrew.png\/250px-027Sandshrew.png"
+        "max_hp": 91
     },
     {
         "number": 28,
@@ -248,8 +221,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 1823,
-        "max_hp": 130,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/0b\/028Sandslash.png\/250px-028Sandslash.png"
+        "max_hp": 130
     },
     {
         "number": 29,
@@ -257,8 +229,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 882,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/81\/029Nidoran.png\/250px-029Nidoran.png"
+        "max_hp": 99
     },
     {
         "number": 30,
@@ -266,8 +237,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 1414,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cd\/030Nidorina.png\/250px-030Nidorina.png"
+        "max_hp": 122
     },
     {
         "number": 31,
@@ -275,8 +245,7 @@
         "type_one": "Poison",
         "type_two": "Ground",
         "max_cp": 2502,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/bf\/031Nidoqueen.png\/250px-031Nidoqueen.png"
+        "max_hp": 154
     },
     {
         "number": 32,
@@ -284,8 +253,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 849,
-        "max_hp": 84,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4a\/032Nidoran.png\/250px-032Nidoran.png"
+        "max_hp": 84
     },
     {
         "number": 33,
@@ -293,8 +261,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 1382,
-        "max_hp": 108,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9f\/033Nidorino.png\/250px-033Nidorino.png"
+        "max_hp": 108
     },
     {
         "number": 34,
@@ -302,8 +269,7 @@
         "type_one": "Poison",
         "type_two": "Ground",
         "max_cp": 2492,
-        "max_hp": 140,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/c6\/034Nidoking.png\/250px-034Nidoking.png"
+        "max_hp": 140
     },
     {
         "number": 35,
@@ -311,8 +277,7 @@
         "type_one": "Fairy",
         "type_two": null,
         "max_cp": 1209,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f4\/035Clefairy.png\/250px-035Clefairy.png"
+        "max_hp": 122
     },
     {
         "number": 36,
@@ -320,8 +285,7 @@
         "type_one": "Fairy",
         "type_two": null,
         "max_cp": 2414,
-        "max_hp": 162,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a9\/036Clefable.png\/250px-036Clefable.png"
+        "max_hp": 162
     },
     {
         "number": 37,
@@ -329,8 +293,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 837,
-        "max_hp": 72,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/60\/037Vulpix.png\/250px-037Vulpix.png"
+        "max_hp": 72
     },
     {
         "number": 38,
@@ -338,8 +301,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 2203,
-        "max_hp": 127,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/05\/038Ninetales.png\/250px-038Ninetales.png"
+        "max_hp": 127
     },
     {
         "number": 39,
@@ -347,8 +309,7 @@
         "type_one": "Normal",
         "type_two": "Fairy",
         "max_cp": 924,
-        "max_hp": 194,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3e\/039Jigglypuff.png\/250px-039Jigglypuff.png"
+        "max_hp": 194
     },
     {
         "number": 40,
@@ -356,8 +317,7 @@
         "type_one": "Normal",
         "type_two": "Fairy",
         "max_cp": 2192,
-        "max_hp": 233,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/92\/040Wigglytuff.png\/250px-040Wigglytuff.png"
+        "max_hp": 233
     },
     {
         "number": 41,
@@ -365,8 +325,7 @@
         "type_one": "Poison",
         "type_two": "Flying",
         "max_cp": 647,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/da\/041Zubat.png\/250px-041Zubat.png"
+        "max_hp": 75
     },
     {
         "number": 42,
@@ -374,8 +333,7 @@
         "type_one": "Poison",
         "type_two": "Flying",
         "max_cp": 1935,
-        "max_hp": 130,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/0c\/042Golbat.png\/250px-042Golbat.png"
+        "max_hp": 130
     },
     {
         "number": 43,
@@ -383,8 +341,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1156,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/43\/043Oddish.png\/250px-043Oddish.png"
+        "max_hp": 83
     },
     {
         "number": 44,
@@ -392,8 +349,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1701,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/2a\/044Gloom.png\/250px-044Gloom.png"
+        "max_hp": 107
     },
     {
         "number": 45,
@@ -401,8 +357,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 2510,
-        "max_hp": 130,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/6a\/045Vileplume.png\/250px-045Vileplume.png"
+        "max_hp": 130
     },
     {
         "number": 46,
@@ -410,8 +365,7 @@
         "type_one": "Bug",
         "type_two": "Grass",
         "max_cp": 923,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/d4\/046Paras.png\/250px-046Paras.png"
+        "max_hp": 67
     },
     {
         "number": 47,
@@ -419,8 +373,7 @@
         "type_one": "Bug",
         "type_two": "Grass",
         "max_cp": 1759,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/80\/047Parasect.png\/250px-047Parasect.png"
+        "max_hp": 107
     },
     {
         "number": 48,
@@ -428,8 +381,7 @@
         "type_one": "Bug",
         "type_two": "Poison",
         "max_cp": 1036,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/ad\/048Venonat.png\/250px-048Venonat.png"
+        "max_hp": 107
     },
     {
         "number": 49,
@@ -437,8 +389,7 @@
         "type_one": "Bug",
         "type_two": "Poison",
         "max_cp": 1903,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/d3\/049Venomoth.png\/250px-049Venomoth.png"
+        "max_hp": 122
     },
     {
         "number": 50,
@@ -446,8 +397,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 460,
-        "max_hp": 27,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/31\/050Diglett.png\/250px-050Diglett.png"
+        "max_hp": 27
     },
     {
         "number": 51,
@@ -455,8 +405,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 1176,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/e\/e5\/051Dugtrio.png\/250px-051Dugtrio.png"
+        "max_hp": 67
     },
     {
         "number": 52,
@@ -464,8 +413,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 761,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/d6\/052Meowth.png\/250px-052Meowth.png"
+        "max_hp": 75
     },
     {
         "number": 53,
@@ -473,8 +421,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1643,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/1\/13\/053Persian.png\/250px-053Persian.png"
+        "max_hp": 115
     },
     {
         "number": 54,
@@ -482,8 +429,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1117,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/53\/054Psyduck.png\/250px-054Psyduck.png"
+        "max_hp": 91
     },
     {
         "number": 55,
@@ -491,8 +437,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 2403,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/fe\/055Golduck.png\/250px-055Golduck.png"
+        "max_hp": 138
     },
     {
         "number": 56,
@@ -500,8 +445,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 884,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/41\/056Mankey.png\/250px-056Mankey.png"
+        "max_hp": 75
     },
     {
         "number": 57,
@@ -509,8 +453,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 1877,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9a\/057Primeape.png\/250px-057Primeape.png"
+        "max_hp": 115
     },
     {
         "number": 58,
@@ -518,8 +461,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 1344,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3d\/058Growlithe.png\/250px-058Growlithe.png"
+        "max_hp": 99
     },
     {
         "number": 59,
@@ -527,8 +469,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 3005,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/b8\/059Arcanine.png\/250px-059Arcanine.png"
+        "max_hp": 154
     },
     {
         "number": 60,
@@ -536,8 +477,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 801,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/49\/060Poliwag.png\/250px-060Poliwag.png"
+        "max_hp": 75
     },
     {
         "number": 61,
@@ -545,8 +485,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1350,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a9\/061Poliwhirl.png\/250px-061Poliwhirl.png"
+        "max_hp": 115
     },
     {
         "number": 62,
@@ -554,8 +493,7 @@
         "type_one": "Water",
         "type_two": "Fighting",
         "max_cp": 2523,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/2d\/062Poliwrath.png\/250px-062Poliwrath.png"
+        "max_hp": 154
     },
     {
         "number": 63,
@@ -563,8 +501,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 604,
-        "max_hp": 51,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/62\/063Abra.png\/250px-063Abra.png"
+        "max_hp": 51
     },
     {
         "number": 64,
@@ -572,8 +509,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 1140,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/97\/064Kadabra.png\/250px-064Kadabra.png"
+        "max_hp": 75
     },
     {
         "number": 65,
@@ -581,8 +517,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 1826,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cc\/065Alakazam.png\/250px-065Alakazam.png"
+        "max_hp": 99
     },
     {
         "number": 66,
@@ -590,8 +525,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 1097,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/85\/066Machop.png\/250px-066Machop.png"
+        "max_hp": 122
     },
     {
         "number": 67,
@@ -599,8 +533,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 1773,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/8e\/067Machoke.png\/250px-067Machoke.png"
+        "max_hp": 138
     },
     {
         "number": 68,
@@ -608,8 +541,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 2612,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/8f\/068Machamp.png\/250px-068Machamp.png"
+        "max_hp": 154
     },
     {
         "number": 69,
@@ -617,8 +549,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1125,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a2\/069Bellsprout.png\/250px-069Bellsprout.png"
+        "max_hp": 91
     },
     {
         "number": 70,
@@ -626,8 +557,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 1736,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9f\/070Weepinbell.png\/250px-070Weepinbell.png"
+        "max_hp": 115
     },
     {
         "number": 71,
@@ -635,8 +565,7 @@
         "type_one": "Grass",
         "type_two": "Poison",
         "max_cp": 2548,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/be\/071Victreebel.png\/250px-071Victreebel.png"
+        "max_hp": 138
     },
     {
         "number": 72,
@@ -644,8 +573,7 @@
         "type_one": "Water",
         "type_two": "Poison",
         "max_cp": 911,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4e\/072Tentacool.png\/250px-072Tentacool.png"
+        "max_hp": 75
     },
     {
         "number": 73,
@@ -653,8 +581,7 @@
         "type_one": "Water",
         "type_two": "Poison",
         "max_cp": 2236,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f6\/073Tentacruel.png\/250px-073Tentacruel.png"
+        "max_hp": 138
     },
     {
         "number": 74,
@@ -662,8 +589,7 @@
         "type_one": "Rock",
         "type_two": "Ground",
         "max_cp": 855,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/98\/074Geodude.png\/250px-074Geodude.png"
+        "max_hp": 75
     },
     {
         "number": 75,
@@ -671,8 +597,7 @@
         "type_one": "Rock",
         "type_two": "Ground",
         "max_cp": 1443,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/75\/075Graveler.png\/250px-075Graveler.png"
+        "max_hp": 99
     },
     {
         "number": 76,
@@ -680,8 +605,7 @@
         "type_one": "Rock",
         "type_two": "Ground",
         "max_cp": 2319,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f2\/076Golem.png\/250px-076Golem.png"
+        "max_hp": 138
     },
     {
         "number": 77,
@@ -689,8 +613,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 1526,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3b\/077Ponyta.png\/250px-077Ponyta.png"
+        "max_hp": 91
     },
     {
         "number": 78,
@@ -698,8 +621,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 2215,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3f\/078Rapidash.png\/250px-078Rapidash.png"
+        "max_hp": 115
     },
     {
         "number": 79,
@@ -707,8 +629,7 @@
         "type_one": "Water",
         "type_two": "Psychic",
         "max_cp": 1227,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/70\/079Slowpoke.png\/250px-079Slowpoke.png"
+        "max_hp": 154
     },
     {
         "number": 80,
@@ -716,8 +637,7 @@
         "type_one": "Water",
         "type_two": "Psychic",
         "max_cp": 2615,
-        "max_hp": 162,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/80\/080Slowbro.png\/250px-080Slowbro.png"
+        "max_hp": 162
     },
     {
         "number": 81,
@@ -725,8 +645,7 @@
         "type_one": "Electric",
         "type_two": "Steel",
         "max_cp": 897,
-        "max_hp": 51,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/6c\/081Magnemite.png\/250px-081Magnemite.png"
+        "max_hp": 51
     },
     {
         "number": 82,
@@ -734,8 +653,7 @@
         "type_one": "Electric",
         "type_two": "Steel",
         "max_cp": 1893,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/72\/082Magneton.png\/250px-082Magneton.png"
+        "max_hp": 91
     },
     {
         "number": 83,
@@ -743,8 +661,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 1272,
-        "max_hp": 94,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f8\/083Farfetch'd.png\/250px-083Farfetch'd.png"
+        "max_hp": 94
     },
     {
         "number": 84,
@@ -752,8 +669,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 861,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/54\/084Doduo.png\/250px-084Doduo.png"
+        "max_hp": 67
     },
     {
         "number": 85,
@@ -761,8 +677,7 @@
         "type_one": "Normal",
         "type_two": "Flying",
         "max_cp": 1849,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/93\/085Dodrio.png\/250px-085Dodrio.png"
+        "max_hp": 107
     },
     {
         "number": 86,
@@ -770,8 +685,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1114,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/1\/1f\/086Seel.png\/250px-086Seel.png"
+        "max_hp": 115
     },
     {
         "number": 87,
@@ -779,8 +693,7 @@
         "type_one": "Water",
         "type_two": "Ice",
         "max_cp": 2161,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/c7\/087Dewgong.png\/250px-087Dewgong.png"
+        "max_hp": 154
     },
     {
         "number": 88,
@@ -788,8 +701,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 1293,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a0\/088Grimer.png\/250px-088Grimer.png"
+        "max_hp": 138
     },
     {
         "number": 89,
@@ -797,8 +709,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 2621,
-        "max_hp": 178,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/7c\/089Muk.png\/250px-089Muk.png"
+        "max_hp": 178
     },
     {
         "number": 90,
@@ -806,8 +717,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 828,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/40\/090Shellder.png\/250px-090Shellder.png"
+        "max_hp": 59
     },
     {
         "number": 91,
@@ -815,8 +725,7 @@
         "type_one": "Water",
         "type_two": "Ice",
         "max_cp": 2067,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/1\/1d\/091Cloyster.png\/250px-091Cloyster.png"
+        "max_hp": 91
     },
     {
         "number": 92,
@@ -824,8 +733,7 @@
         "type_one": "Ghost",
         "type_two": "Poison",
         "max_cp": 810,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/ca\/092Gastly.png\/250px-092Gastly.png"
+        "max_hp": 59
     },
     {
         "number": 93,
@@ -833,8 +741,7 @@
         "type_one": "Ghost",
         "type_two": "Poison",
         "max_cp": 1390,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/62\/093Haunter.png\/250px-093Haunter.png"
+        "max_hp": 83
     },
     {
         "number": 94,
@@ -842,8 +749,7 @@
         "type_one": "Ghost",
         "type_two": "Poison",
         "max_cp": 2093,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/c6\/094Gengar.png\/250px-094Gengar.png"
+        "max_hp": 107
     },
     {
         "number": 95,
@@ -851,8 +757,7 @@
         "type_one": "Rock",
         "type_two": "Ground",
         "max_cp": 863,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9a\/095Onix.png\/250px-095Onix.png"
+        "max_hp": 67
     },
     {
         "number": 96,
@@ -860,8 +765,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 1082,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3e\/096Drowzee.png\/250px-096Drowzee.png"
+        "max_hp": 107
     },
     {
         "number": 97,
@@ -869,8 +773,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 2199,
-        "max_hp": 146,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/0a\/097Hypno.png\/250px-097Hypno.png"
+        "max_hp": 146
     },
     {
         "number": 98,
@@ -878,8 +781,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 797,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a7\/098Krabby.png\/250px-098Krabby.png"
+        "max_hp": 59
     },
     {
         "number": 99,
@@ -887,8 +789,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1836,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/71\/099Kingler.png\/250px-099Kingler.png"
+        "max_hp": 99
     },
     {
         "number": 100,
@@ -896,8 +797,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 845,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/da\/100Voltorb.png\/250px-100Voltorb.png"
+        "max_hp": 75
     },
     {
         "number": 101,
@@ -905,8 +805,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 1657,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/84\/101Electrode.png\/250px-101Electrode.png"
+        "max_hp": 107
     },
     {
         "number": 102,
@@ -914,8 +813,7 @@
         "type_one": "Grass",
         "type_two": "Psychic",
         "max_cp": 1107,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/af\/102Exeggcute.png\/250px-102Exeggcute.png"
+        "max_hp": 107
     },
     {
         "number": 103,
@@ -923,8 +821,7 @@
         "type_one": "Grass",
         "type_two": "Psychic",
         "max_cp": 2976,
-        "max_hp": 162,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/24\/103Exeggutor.png\/250px-103Exeggutor.png"
+        "max_hp": 162
     },
     {
         "number": 104,
@@ -932,8 +829,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 1013,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/2a\/104Cubone.png\/250px-104Cubone.png"
+        "max_hp": 91
     },
     {
         "number": 105,
@@ -941,8 +837,7 @@
         "type_one": "Ground",
         "type_two": null,
         "max_cp": 1668,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/98\/105Marowak.png\/250px-105Marowak.png"
+        "max_hp": 107
     },
     {
         "number": 106,
@@ -950,8 +845,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 1503,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/32\/106Hitmonlee.png\/250px-106Hitmonlee.png"
+        "max_hp": 91
     },
     {
         "number": 107,
@@ -959,8 +853,7 @@
         "type_one": "Fighting",
         "type_two": null,
         "max_cp": 1527,
-        "max_hp": 91,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/a3\/107Hitmonchan.png\/250px-107Hitmonchan.png"
+        "max_hp": 91
     },
     {
         "number": 108,
@@ -968,8 +861,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1638,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/00\/108Lickitung.png\/250px-108Lickitung.png"
+        "max_hp": 154
     },
     {
         "number": 109,
@@ -977,8 +869,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 1160,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/1\/17\/109Koffing.png\/250px-109Koffing.png"
+        "max_hp": 75
     },
     {
         "number": 110,
@@ -986,8 +877,7 @@
         "type_one": "Poison",
         "type_two": null,
         "max_cp": 2266,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/42\/110Weezing.png\/250px-110Weezing.png"
+        "max_hp": 115
     },
     {
         "number": 111,
@@ -995,8 +885,7 @@
         "type_one": "Ground",
         "type_two": "Rock",
         "max_cp": 1190,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/9b\/111Rhyhorn.png\/250px-111Rhyhorn.png"
+        "max_hp": 138
     },
     {
         "number": 112,
@@ -1004,8 +893,7 @@
         "type_one": "Ground",
         "type_two": "Rock",
         "max_cp": 2259,
-        "max_hp": 178,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/47\/112Rhydon.png\/250px-112Rhydon.png"
+        "max_hp": 178
     },
     {
         "number": 113,
@@ -1013,8 +901,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 679,
-        "max_hp": 408,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cd\/113Chansey.png\/250px-113Chansey.png"
+        "max_hp": 408
     },
     {
         "number": 114,
@@ -1022,8 +909,7 @@
         "type_one": "Grass",
         "type_two": null,
         "max_cp": 1752,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/3e\/114Tangela.png\/250px-114Tangela.png"
+        "max_hp": 115
     },
     {
         "number": 115,
@@ -1031,8 +917,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 2057,
-        "max_hp": 178,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4e\/115Kangaskhan.png\/250px-115Kangaskhan.png"
+        "max_hp": 178
     },
     {
         "number": 116,
@@ -1040,8 +925,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 800,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/5\/5a\/116Horsea.png\/250px-116Horsea.png"
+        "max_hp": 59
     },
     {
         "number": 117,
@@ -1049,8 +933,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 1725,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/26\/117Seadra.png\/250px-117Seadra.png"
+        "max_hp": 99
     },
     {
         "number": 118,
@@ -1058,8 +941,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 972,
-        "max_hp": 83,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/7b\/118Goldeen.png\/250px-118Goldeen.png"
+        "max_hp": 83
     },
     {
         "number": 119,
@@ -1067,8 +949,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 2058,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/6a\/119Seaking.png\/250px-119Seaking.png"
+        "max_hp": 138
     },
     {
         "number": 120,
@@ -1076,8 +957,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 944,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4f\/120Staryu.png\/250px-120Staryu.png"
+        "max_hp": 59
     },
     {
         "number": 121,
@@ -1085,8 +965,7 @@
         "type_one": "Water",
         "type_two": "Psychic",
         "max_cp": 2197,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cd\/121Starmie.png\/250px-121Starmie.png"
+        "max_hp": 107
     },
     {
         "number": 122,
@@ -1094,8 +973,7 @@
         "type_one": "Psychic",
         "type_two": "Fairy",
         "max_cp": 1505,
-        "max_hp": 75,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/e\/ec\/122Mr._Mime.png\/250px-122Mr._Mime.png"
+        "max_hp": 75
     },
     {
         "number": 123,
@@ -1103,8 +981,7 @@
         "type_one": "Bug",
         "type_two": "Flying",
         "max_cp": 2088,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/ba\/123Scyther.png\/250px-123Scyther.png"
+        "max_hp": 122
     },
     {
         "number": 124,
@@ -1112,8 +989,7 @@
         "type_one": "Ice",
         "type_two": "Psychic",
         "max_cp": 1728,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/7c\/124Jynx.png\/250px-124Jynx.png"
+        "max_hp": 115
     },
     {
         "number": 125,
@@ -1121,8 +997,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 2134,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/de\/125Electabuzz.png\/250px-125Electabuzz.png"
+        "max_hp": 115
     },
     {
         "number": 126,
@@ -1130,8 +1005,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 2281,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/8c\/126Magmar.png\/250px-126Magmar.png"
+        "max_hp": 115
     },
     {
         "number": 127,
@@ -1139,8 +1013,7 @@
         "type_one": "Bug",
         "type_two": null,
         "max_cp": 2137,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/71\/127Pinsir.png\/250px-127Pinsir.png"
+        "max_hp": 115
     },
     {
         "number": 128,
@@ -1148,8 +1021,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1857,
-        "max_hp": 130,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/b8\/128Tauros.png\/250px-128Tauros.png"
+        "max_hp": 130
     },
     {
         "number": 129,
@@ -1157,8 +1029,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 264,
-        "max_hp": 43,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/0\/02\/129Magikarp.png\/250px-129Magikarp.png"
+        "max_hp": 43
     },
     {
         "number": 130,
@@ -1166,8 +1037,7 @@
         "type_one": "Water",
         "type_two": "Flying",
         "max_cp": 2708,
-        "max_hp": 162,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/41\/130Gyarados.png\/250px-130Gyarados.png"
+        "max_hp": 162
     },
     {
         "number": 131,
@@ -1175,8 +1045,7 @@
         "type_one": "Water",
         "type_two": "Ice",
         "max_cp": 3002,
-        "max_hp": 218,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/a\/ab\/131Lapras.png\/250px-131Lapras.png"
+        "max_hp": 218
     },
     {
         "number": 132,
@@ -1184,8 +1053,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 926,
-        "max_hp": 88,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/3\/36\/132Ditto.png\/250px-132Ditto.png"
+        "max_hp": 88
     },
     {
         "number": 133,
@@ -1193,8 +1061,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1084,
-        "max_hp": 99,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/e\/e2\/133Eevee.png\/250px-133Eevee.png"
+        "max_hp": 99
     },
     {
         "number": 134,
@@ -1202,8 +1069,7 @@
         "type_one": "Water",
         "type_two": null,
         "max_cp": 2836,
-        "max_hp": 218,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/fd\/134Vaporeon.png\/250px-134Vaporeon.png"
+        "max_hp": 218
     },
     {
         "number": 135,
@@ -1211,8 +1077,7 @@
         "type_one": "Electric",
         "type_two": null,
         "max_cp": 2155,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/bb\/135Jolteon.png\/250px-135Jolteon.png"
+        "max_hp": 115
     },
     {
         "number": 136,
@@ -1220,8 +1085,7 @@
         "type_one": "Fire",
         "type_two": null,
         "max_cp": 2662,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/d\/dd\/136Flareon.png\/250px-136Flareon.png"
+        "max_hp": 115
     },
     {
         "number": 137,
@@ -1229,8 +1093,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 1703,
-        "max_hp": 115,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/6\/6b\/137Porygon.png\/250px-137Porygon.png"
+        "max_hp": 115
     },
     {
         "number": 138,
@@ -1238,8 +1101,7 @@
         "type_one": "Rock",
         "type_two": "Water",
         "max_cp": 1127,
-        "max_hp": 67,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/79\/138Omanyte.png\/250px-138Omanyte.png"
+        "max_hp": 67
     },
     {
         "number": 139,
@@ -1247,8 +1109,7 @@
         "type_one": "Rock",
         "type_two": "Water",
         "max_cp": 2249,
-        "max_hp": 122,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/43\/139Omastar.png\/250px-139Omastar.png"
+        "max_hp": 122
     },
     {
         "number": 140,
@@ -1256,8 +1117,7 @@
         "type_one": "Rock",
         "type_two": "Water",
         "max_cp": 1112,
-        "max_hp": 59,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/f9\/140Kabuto.png\/250px-140Kabuto.png"
+        "max_hp": 59
     },
     {
         "number": 141,
@@ -1265,8 +1125,7 @@
         "type_one": "Rock",
         "type_two": "Water",
         "max_cp": 2145,
-        "max_hp": 107,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/2\/29\/141Kabutops.png\/250px-141Kabutops.png"
+        "max_hp": 107
     },
     {
         "number": 142,
@@ -1274,8 +1133,7 @@
         "type_one": "Rock",
         "type_two": "Flying",
         "max_cp": 2180,
-        "max_hp": 138,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/e\/e8\/142Aerodactyl.png\/250px-142Aerodactyl.png"
+        "max_hp": 138
     },
     {
         "number": 143,
@@ -1283,8 +1141,7 @@
         "type_one": "Normal",
         "type_two": null,
         "max_cp": 3135,
-        "max_hp": 265,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/f\/fb\/143Snorlax.png\/250px-143Snorlax.png"
+        "max_hp": 265
     },
     {
         "number": 144,
@@ -1292,8 +1149,7 @@
         "type_one": "Ice",
         "type_two": "Flying",
         "max_cp": 2999,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/4\/4e\/144Articuno.png\/250px-144Articuno.png"
+        "max_hp": 154
     },
     {
         "number": 145,
@@ -1301,8 +1157,7 @@
         "type_one": "Electric",
         "type_two": "Flying",
         "max_cp": 3136,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/e\/e3\/145Zapdos.png\/250px-145Zapdos.png"
+        "max_hp": 154
     },
     {
         "number": 146,
@@ -1310,8 +1165,7 @@
         "type_one": "Fire",
         "type_two": "Flying",
         "max_cp": 3263,
-        "max_hp": 154,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/1\/1b\/146Moltres.png\/250px-146Moltres.png"
+        "max_hp": 154
     },
     {
         "number": 147,
@@ -1319,8 +1173,7 @@
         "type_one": "Dragon",
         "type_two": null,
         "max_cp": 990,
-        "max_hp": 76,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/c\/cc\/147Dratini.png\/250px-147Dratini.png"
+        "max_hp": 76
     },
     {
         "number": 148,
@@ -1328,8 +1181,7 @@
         "type_one": "Dragon",
         "type_two": null,
         "max_cp": 1760,
-        "max_hp": 108,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/9\/93\/148Dragonair.png\/250px-148Dragonair.png"
+        "max_hp": 108
     },
     {
         "number": 149,
@@ -1337,8 +1189,7 @@
         "type_one": "Dragon",
         "type_two": "Flying",
         "max_cp": 3525,
-        "max_hp": 156,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/8\/8b\/149Dragonite.png\/250px-149Dragonite.png"
+        "max_hp": 156
     },
     {
         "number": 150,
@@ -1346,8 +1197,7 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 4174,
-        "max_hp": 180,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/7\/78\/150Mewtwo.png\/250px-150Mewtwo.png"
+        "max_hp": 180
     },
     {
         "number": 151,
@@ -1355,7 +1205,6 @@
         "type_one": "Psychic",
         "type_two": null,
         "max_cp": 3322,
-        "max_hp": 170,
-        "image_url": "http:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/b1\/151Mew.png\/250px-151Mew.png"
+        "max_hp": 170
     }
 ]
