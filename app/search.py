@@ -14,7 +14,7 @@ HEADERS = {"content-type": "application/json"}
 
 
 class SearchResult:
-    """Represents a product returned from elasticsearch."""
+    # Represents a product returned from elasticsearch.
 
     def __init__(
         self, id_, number, name, type_one, type_two, max_cp, max_hp, image_url
@@ -72,7 +72,7 @@ def search(term: str, count: int) -> List[SearchResult]:
             }
         }
     }
-    dis_max_query = {  # disjunction max query
+    dis_max_query = {  # "disjunction max query"
         "dis_max": {
             "queries": [name_query, type_one_query, type_two_query],
         },

@@ -8,6 +8,7 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 from search import search
 from data import all_pokemon
 
+
 app = Flask(__name__)
 
 
@@ -21,15 +22,14 @@ def get_image():
 @app.route("/")
 @app.route("/index")
 def index():
-    """
-    Search for pokemon across a variety of terms, and show a blank page at the start.
-    """
+    # Search for pokemon across a variety of terms, and show a blank page at the start.
+
     search_terms = (
         []
     )  # by adding terms here, you can display search results in the home page.
-
     num_results = 9
     pokemon_by_category = [(t, search(t, num_results)) for t in search_terms]
+
     return render_template(
         "index.html",
         pokemon_by_category=pokemon_by_category,
@@ -38,14 +38,13 @@ def index():
 
 @app.route("/search", methods=["GET", "POST"])
 def search_single_product():
-    """
-    Execute a search for a specific search term.
+    # Execute a search for a specific search term.
+    # Return the top 50 results.
 
-    Return the top 50 results.
-    """
     query = request.args.get("search")
     num_results = 50
     pokemon_by_category = [(query, search(query, num_results))]
+
     return render_template(
         "index.html",
         pokemon_by_category=pokemon_by_category,
@@ -55,9 +54,7 @@ def search_single_product():
 
 @app.route("/pokemon/<int:pokemon_id>")
 def single_product(pokemon_id):
-    """
-    Display information about a specific pokemon
-    """
+    # Display information about a specific pokemon
 
     pokemon = str(all_pokemon()[pokemon_id - 1])
 

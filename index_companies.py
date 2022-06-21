@@ -24,9 +24,10 @@ def pokemon_to_index():
 
 
 def main():
-    # Connect to localhost:9200 by default.
+    # Connects to localhost:9200 by default.
     es = Elasticsearch(
-        hosts=["http://localhost:9200"], http_auth=("elastic", "BOUGSd4No0SuDBjLe77I")
+        hosts=["http://localhost:9200"],
+        http_auth=("elastic", "BOUGSd4No0SuDBjLe77I"),  # username, password
     )
 
     es.indices.delete(index=INDEX_NAME, ignore=404)
@@ -44,19 +45,8 @@ def main():
                     "image_url": {"type": "text"},
                 },
             },
-            "settings": {
-                "analysis": {
-                    "analyzer": {
-                        "custom_english_analyzer": {
-                            "type": "english",
-                            "stopwords": ["_english_"],
-                        },
-                    },
-                },
-            },
         },
     )
-
     bulk(es, pokemon_to_index())
 
 
