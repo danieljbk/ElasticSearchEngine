@@ -1,14 +1,14 @@
-from elasticsearch import Elasticsearch
-from elasticsearch_dsl import Search
-from typing import List
-
 import sys
 import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 
+from elasticsearch import Elasticsearch
+from elasticsearch_dsl import Search
+from typing import List
 from constants import DOC_TYPE, INDEX_NAME
+
 
 HEADERS = {"content-type": "application/json"}
 
@@ -59,10 +59,25 @@ def search(term: str, count: int) -> List[SearchResult]:
             }
         }
     }
-    type_one_query = {"match": {"type_one": {"query": term}}}
+    type_one_query = {
+        "match": {
+            "type_one": {
+                "query": term,
+                "fuzziness": "AUTO",
+            }
+        }
+    }
+    type_two_query = {
+        "match": {
+            "type_two": {
+                "query": term,
+                "fuzziness": "AUTO",
+            }
+        }
+    }
     dismax_query = {
         "dis_max": {
-            "queries": [name_query, type_one_query],
+            "queries": [name_query, type_one_query, type_two_query],
         },
     }
     docs = s.query(dismax_query)[:count].execute()
